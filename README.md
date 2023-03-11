@@ -16,7 +16,7 @@ https://www.anaconda.com/download/
 علاوه بر محیط های برنامه نویسی پایتونی که اشاره شد، به هرحال باید خود پایتون هم نصب کنین که میتونین از لینک زیر استفاده کنین:
 https://www.python.org/downloads/
 
-برای قسمت تئوری درس میتونین از دوره ماشین لرنینگ andrew ng که در coursera  که در youtube موجوده استفاده کنین (یوتویوب فیلتره می تونید از Dideo دسترسی پیدا کنید!) :
+برای قسمت تئوری درس میتونین از دوره ماشین لرنینگ andrew ng که در coursera و youtube موجوده استفاده کنین (یوتویوب فیلتره می تونید از Dideo دسترسی پیدا کنید!) :
 https://youtube.com/playlist?list=PLxfEOJXRm7eZKJyovNH-lE3ooXTsOCvfC
 https://www.coursera.org/specializations/machine-learning-introduction#howItWorks
 
