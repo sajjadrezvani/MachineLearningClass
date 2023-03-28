@@ -13,12 +13,15 @@ https://soft98.ir/software/programming/53-visual-studio-code-1.html
 بجای نصب تک به تک کتابخانه های اصلی کارمون می تونید یک جا از نصب Anaconda استفاده کنید و برای دانلودش هم میتونین به لینک زیر مراجعه کنید:
 https://www.anaconda.com/download/
 
+و ویدیوی آموزش نصبش:
+https://www.aparat.com/v/7HpBv
+https://www.aparat.com/v/W3Ddh
+
 علاوه بر محیط های برنامه نویسی پایتونی که اشاره شد، به هرحال باید خود پایتون هم نصب کنین که میتونین از لینک زیر استفاده کنین:
 https://www.python.org/downloads/
 
 برای قسمت تئوری درس میتونین از دوره ماشین لرنینگ andrew ng که در coursera و youtube موجوده استفاده کنین (یوتویوب فیلتره می تونید از Dideo دسترسی پیدا کنید!) :
 https://youtube.com/playlist?list=PLxfEOJXRm7eZKJyovNH-lE3ooXTsOCvfC
-https://www.coursera.org/specializations/machine-learning-introduction#howItWorks
 
 جلسات اول کلاس پایتون رو کامل مرور کردیم ولی برای آشنایی بیشتر با پایتون میتونین از سایت w3school استفاده کنین:
 https://www.w3schools.com/python/
