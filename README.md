@@ -28,3 +28,11 @@ https://www.w3schools.com/python/
 
 لب های هر درس براتون قرار داده میشه ولی بازم برای تمرین و کد زنی بیشتر میتونین به سایت زیر مراجعه کنین:
 https://www.kaggle.com/code
+
+
+از لینک های زیر برا ایده گرفتن می تونید استفاده کنید: (بعضی شون از سطح مورد انتظار این پروژه خیلی پایین ترن و سورس کدشون موجوده!)
+#   https://www.projectpro.io/article/healthcare-machine-learning-projects-with-source-code/508
+#   https://medium.com/mlearning-ai/machine-learning-projects-with-source-code-in-python-easy-projects-intermediate-projects-and-d289f5f1328e
+#   https://www.projectpro.io/article/machine-learning-projects-for-students-with-source-code/503
+#   https://towardsdatascience.com/8-exciting-case-studies-of-machine-learning-applications-in-life-sciences-and-biotechnology-97c1b0b43688
+#   https://www.projectpro.io/article/machine-learning-projects-in-bioinformatics/627
