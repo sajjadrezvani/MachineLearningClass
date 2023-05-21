@@ -1,8 +1,7 @@
 # MachineLearningClass
 In this repository I share all files, assignments and labs of my teaching assistant MachineLearning class (Dr. ‪Arash Sadeghzadeh).
 
-<img src="https://user-images.githubusercontent.com/100838219/220181082-841704a6-49d6-4f2b-814c-e04add11b309.png" width="500" height="350" />
-
+<img src="https://github.com/sajjadrezvani/MachineLearningClass/assets/100838219/79d8e168-738c-4e2c-84f2-6b7c82c87ef2" width="500" height="400" />
 
 همانطور که سر کلاس کامل توضیح دادیم بهترین برنامه ای که می تونید هم باهاش .py و هم .ipynb بدون دردسر ران کنید vs code هستش که برای دانلود vs code میتونین به این [لینک](https://soft98.ir/software/programming/53-visual-studio-code-1.html) مراجعه کنین.
 
