@@ -1,5 +1,6 @@
 # MachineLearningClass
-In this repository I share all files, assignments and labs of my teaching assistant MachineLearning class  
+In this repository I share all files, assignments and labs of my Machnine Learing and Python Tutorial Class.
+Including as teaching assistant in  MachineLearning class of 
 [**(Dr. ‪Arash Sadeghzadeh)**](https://www.linkedin.com/in/arash-sadeghzadeh-ba1930158/?originalSubdomain=nl)
 
 <img src="https://github.com/sajjadrezvani/MachineLearningClass/assets/100838219/79d8e168-738c-4e2c-84f2-6b7c82c87ef2" width="500" height="400" />
